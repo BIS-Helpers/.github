@@ -1,5 +1,7 @@
 # 💡 Documentation
 
+{% embed url="https://bis-helper.gitbook.io/bis-helper-docs" %}
+
 <div data-full-width="true">
 
 <figure><img src=".gitbook/assets/bis_helpers_logo.jpg" alt="" width="375"><figcaption><p>BIS Helpers</p></figcaption></figure>
