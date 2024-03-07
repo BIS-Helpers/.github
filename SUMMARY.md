@@ -1,0 +1,16 @@
+# Table of contents
+
+* [💡 Documentation](README.md)
+  * [Overview](documentation/overview.md)
+  * [Phases](documentation/phases/README.md)
+    * [🌐 Design System / Style guide](documentation/phases/design-system-style-guide.md)
+    * [🎨 UI/UX](documentation/phases/ui-ux/README.md)
+      * [Wireframes](documentation/phases/ui-ux/wireframes.md)
+      * [Low-fidelity](documentation/phases/ui-ux/low-fidelity.md)
+      * [High-fidelity](documentation/phases/ui-ux/high-fidelity.md)
+      * [Prototypes](documentation/phases/ui-ux/prototypes.md)
+    * [💻 Technical](documentation/phases/technical/README.md)
+      * [Coding](documentation/phases/technical/coding.md)
+      * [API Reference](documentation/phases/technical/api-reference/README.md)
+        * [Pets](documentation/phases/technical/api-reference/pets.md)
+        * [Users](documentation/phases/technical/api-reference/users.md)
