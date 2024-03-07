@@ -6,14 +6,17 @@ description: This BIS_HELPERS project documented according to front-end perspect
 
 <figure><img src=".gitbook/assets/bis_helpers_logo.jpg" alt="" width="375"><figcaption><p>BIS Helpers</p></figcaption></figure>
 
-{% tabs %}
-{% tab title="First Tab" %}
-[overview.md](documentation/overview.md "mention")
-{% endtab %}
-
-{% tab title="Second Tab" %}
-{% content-ref url="documentation/phases/" %}
-[phases](documentation/phases/)
-{% endcontent-ref %}
-{% endtab %}
-{% endtabs %}
+* [💡 Documentation](./)
+  * [Overview](documentation/overview.md)
+  * [Phases](documentation/phases/)
+    * [🌐 Design System / Style guide](documentation/phases/design-system-style-guide.md)
+    * [🎨 UI/UX](documentation/phases/ui-ux/)
+      * [Wireframes](documentation/phases/ui-ux/wireframes.md)
+      * [Low-fidelity](documentation/phases/ui-ux/low-fidelity.md)
+      * [High-fidelity](documentation/phases/ui-ux/high-fidelity.md)
+      * [Prototypes](documentation/phases/ui-ux/prototypes.md)
+    * [💻 Technical](documentation/phases/technical/)
+      * [Coding](documentation/phases/technical/coding.md)
+      * [API Reference](documentation/phases/technical/api-reference/)
+        * [Pets](documentation/phases/technical/api-reference/pets.md)
+        * [Users](documentation/phases/technical/api-reference/users.md)
