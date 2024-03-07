@@ -4,7 +4,11 @@ description: This BIS_HELPERS project documented according to front-end perspect
 
 # 💡 Documentation
 
+<div data-full-width="true">
+
 <figure><img src=".gitbook/assets/bis_helpers_logo.jpg" alt="" width="375"><figcaption><p>BIS Helpers</p></figcaption></figure>
+
+</div>
 
 * [💡 Documentation](./)
   * [Overview](documentation/overview.md)
