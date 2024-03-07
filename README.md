@@ -1,6 +1,6 @@
 # 💡 Documentation
 
-{% embed url="https://bis-helper.gitbook.io/bis-helper-docs" %}
+[Our Documentation](https://bis-helper.gitbook.io/bis-helper-docs)
 
 <div data-full-width="true">
 
