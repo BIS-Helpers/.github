@@ -1,7 +1,3 @@
----
-description: This BIS_HELPERS project documented according to front-end perspective.
----
-
 # 💡 Documentation
 
 <div data-full-width="true">
