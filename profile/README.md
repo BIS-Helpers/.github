@@ -12,7 +12,7 @@ The bis-helper system is designed to help students of BIS-HU in their learning j
 - **APIs**: RESTful APIs
 - Swagger for API documentation
 ## System Architecture
-![System Design](/.eraser/LwgWGA0BXivoM8wz6OLa___7W8whUFHobNTvhtizFIC5OukyOv2___---figure---l46-DoUrHOX8rlMVlVrBM---figure---Xsyyldf7Z6ySWXF4su4OUA.png "System Design")
+![System Design](/.eraser/LwgWGA0BXivoM8wz6OLa___7W8whUFHobNTvhtizFIC5OukyOv2___---figure---j6TWzQOFVisxW49IDDoIX---figure---Xsyyldf7Z6ySWXF4su4OUA.png "System Design")
 
 
 
