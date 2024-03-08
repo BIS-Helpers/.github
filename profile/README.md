@@ -11,6 +11,8 @@ The bis-helper system is designed to help students of BIS-HU in their learning j
 - **Hosting**: Azure
 - **APIs**: RESTful APIs
 - Swagger for API documentation
+
+## System Architecture
 ![System Design](/.eraser/LwgWGA0BXivoM8wz6OLa___7W8whUFHobNTvhtizFIC5OukyOv2___---figure---Wx0-6eE4Y7G0A-3ySt3pO---figure---Xsyyldf7Z6ySWXF4su4OUA.png "System Design")
 
 
