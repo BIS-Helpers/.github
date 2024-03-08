@@ -13,7 +13,7 @@ The bis-helper system is designed to help students of BIS-HU in their learning j
 - Swagger for API documentation
 
 
-![System Design](/.eraser/LwgWGA0BXivoM8wz6OLa___7W8whUFHobNTvhtizFIC5OukyOv2___---figure---uF5GySIHheOFjZM4DmQW3---figure---Xsyyldf7Z6ySWXF4su4OUA.png "System Design")
+![System Design](/.eraser/LwgWGA0BXivoM8wz6OLa___7W8whUFHobNTvhtizFIC5OukyOv2___---figure---aNoqrqMloiGOCxmqqjZBz---figure---Xsyyldf7Z6ySWXF4su4OUA.png "System Design")
 
 
 
