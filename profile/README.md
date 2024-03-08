@@ -3,7 +3,7 @@
 # For overview, see Our [﻿📚 Documentation](https://bis-helper.gitbook.io/bis-helper-docs) 
 ![](.gitbook/assets/bis_helpers_logo.jpg "")
 
-![Figure 1](/.eraser/LwgWGA0BXivoM8wz6OLa___7W8whUFHobNTvhtizFIC5OukyOv2___---figure---BDxnpyRlOAM_eeldVuzs3---figure---Xsyyldf7Z6ySWXF4su4OUA.png "Figure 1")
+![System Design](/.eraser/LwgWGA0BXivoM8wz6OLa___7W8whUFHobNTvhtizFIC5OukyOv2___---figure---5zTXseIKZ_1JAY5cGVY8Q---figure---Xsyyldf7Z6ySWXF4su4OUA.png "System Design")
 
 
 
