@@ -3,7 +3,7 @@
 The bis-helper system is designed to help students of BIS-HU in their learning journey by providing services that can be redeemed as helpful and useful.
  using the following technologies:
 
-# For more details see our [﻿📚 Documentation](https://bis-helper.gitbook.io/bis-helper-docs) 
+# For more details, see our [﻿📚 Documentation](https://bis-helper.gitbook.io/bis-helper-docs) 
 ## System Architecture
 - **Frontend**: Angular V16
 - **Backend**: .NET
@@ -13,7 +13,7 @@ The bis-helper system is designed to help students of BIS-HU in their learning j
 - Swagger for API documentation
 
 
-![System Design](/.eraser/LwgWGA0BXivoM8wz6OLa___7W8whUFHobNTvhtizFIC5OukyOv2___---figure---66Jxotbo2olsT3WClRt7v---figure---Xsyyldf7Z6ySWXF4su4OUA.png "System Design")
+![System Design](/.eraser/LwgWGA0BXivoM8wz6OLa___7W8whUFHobNTvhtizFIC5OukyOv2___---figure---uF5GySIHheOFjZM4DmQW3---figure---Xsyyldf7Z6ySWXF4su4OUA.png "System Design")
 
 
 
