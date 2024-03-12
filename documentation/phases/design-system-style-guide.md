@@ -6,7 +6,7 @@ In this section, we will delve into the foundation of our application's visual i
 
 ### **System Architecture:**
 
-Our System encompasses both the frontend and backend technologies, database management, hosting environment, and API documentation.
+Our System encompasses both the frontend and backend technologies and database management.
 
 A good system architecture lays the foundation for scalability, reliability, and performance, ensuring that our application meets the needs of users and stakeholders effectively.
 
